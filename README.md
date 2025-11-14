@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanish-ml
 - 👀 I’m interested in Data analytics, Data Science & Artificial Intelligence. 
-- 🌱 I’m currently learning TensorFlow
+- 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on AI/DS projects 
 - 📫 How to reach me tanishmittal2212@gmail.com
 
