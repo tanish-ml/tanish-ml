@@ -13,6 +13,17 @@
 > **Current Directive:** Exploring advanced Deep Learning methodologies and optimizing Neural Networks.
 > **Collaboration:** Always open to contributing to open-source AI/DS projects.
 
+<!-- MOTD:START -->
+> **System MOTD:** "Data is a precious thing and will last longer than the systems themselves." — Tim Berners-Lee
+<!-- MOTD:END -->
+
+---
+
+### 📰 Live Data Feed: Towards Data Science
+*Automatically fetching the latest AI research & articles...*
+<!-- AI_NEWS:START -->
+<!-- AI_NEWS:END -->
+
 ---
 
 ### 🧠 My Data Science Workflow
@@ -31,6 +42,12 @@ graph TD;
     E -->|Evaluation| F;
     F --> G[Deployment & Insights]:::processfill;
 ```
+
+---
+
+### 📡 System Event Log (Recent Activity)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -56,7 +73,7 @@ graph TD;
 
 ---
 
-### 📡 Establish Connection
+### 🔌 Establish Connection
 
 <div align="center">
   <a href="mailto:tanishmittal2212@gmail.com">
