@@ -1,0 +1,28 @@
+name: NASA Astronomy Picture of the Day
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch APOD
+        run: |
+          RESPONSE=$(curl -s "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY")
+          IMG_URL=$(echo $RESPONSE | jq -r '.url')
+          TITLE=$(echo $RESPONSE | jq -r '.title')
+          
+          # Replace the APOD section in README
+          sed -i "/<!-- APOD:START -->/,/<!-- APOD:END -->/c\<!-- APOD:START -->\n<div align=\"center\">\n  <img src=\"$IMG_URL\" width=\"600\" style=\"border-radius:10px;\" alt=\"$TITLE\">\n  <br>\n  <i>$TITLE</i>\n</div>\n<!-- APOD:END -->" README.md
+          
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update NASA Image of the Day"
+          git push

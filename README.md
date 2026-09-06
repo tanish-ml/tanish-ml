@@ -13,16 +13,19 @@
 > **Current Directive:** Exploring advanced Deep Learning methodologies and optimizing Neural Networks.
 > **Collaboration:** Always open to contributing to open-source AI/DS projects.
 
-<!-- MOTD:START -->
-> **System MOTD:** "Data is a precious thing and will last longer than the systems themselves." — Tim Berners-Lee
-<!-- MOTD:END -->
+<!-- JOKE:START -->
+> **System Log:** A SQL query goes into a bar, walks up to two tables and asks... "Can I join you?"
+<!-- JOKE:END -->
 
 ---
 
-### 📰 Live Data Feed: Towards Data Science
-*Automatically fetching the latest AI research & articles...*
-<!-- AI_NEWS:START -->
-<!-- AI_NEWS:END -->
+### 🌌 Daily Cosmos Data (NASA API)
+*Live tracking of astronomical imagery. Updated daily...*
+<!-- APOD:START -->
+<div align="center">
+  <img src="https://apod.nasa.gov/apod/image/2309/MoonJupiter_Yilmaz_1080.jpg" width="600" style="border-radius:10px;" alt="Space Placeholder">
+</div>
+<!-- APOD:END -->
 
 ---
 
@@ -45,12 +48,6 @@ graph TD;
 
 ---
 
-### 📡 System Event Log (Recent Activity)
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ### ⚙️ Technology Stack
 
 <p align="center">
@@ -58,6 +55,16 @@ graph TD;
     <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,numpy,docker,linux,aws,gcp,git,bash&perline=6" />
   </a>
 </p>
+
+---
+
+### 🟩 3D Isometric Contribution Grid
+
+<div align="center">
+  <picture>
+    <img alt="github 3d contribution grid" src="https://raw.githubusercontent.com/tanish-ml/tanish-ml/main/profile-3d-contrib/profile-night-view.svg">
+  </picture>
+</div>
 
 ---
 

@@ -1,0 +1,28 @@
+name: Daily Developer Joke
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-joke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch Joke
+        run: |
+          JOKE=$(curl -s "https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=single" | jq -r '.joke')
+          
+          # Ensure joke doesn't contain newlines that break sed
+          JOKE_CLEAN=$(echo "$JOKE" | tr '\n' ' ')
+          
+          sed -i "/<!-- JOKE:START -->/,/<!-- JOKE:END -->/c\<!-- JOKE:START -->\n> **System Log:** $JOKE_CLEAN\n<!-- JOKE:END -->" README.md
+          
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Daily Developer Joke"
+          git push
