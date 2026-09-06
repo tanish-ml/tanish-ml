@@ -1,156 +1,82 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px;" alt="Data Stream Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F2937&height=220&section=header&text=TANISH%20MITTAL&fontSize=50&fontColor=60A5FA&animation=fadeIn&fontAlignY=40&desc=DATA%20SCIENTIST%20%7C%20ML%20ENGINEER&descAlignY=60&descAlign=50" />
 </div>
 
-<h1 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Tanish_ML+System+OS_v3.0;Interactive+Console+Enabled;Click+the+modules+below+to+execute_&alt=Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Researching+Deep+Learning+Architectures;Optimizing+Neural+Networks+with+PyTorch;Translating+Data+into+Actionable+Intelligence;Building+Scalable+AI+Systems" alt="Typing SVG" />
   </a>
-</h1>
+</div>
+
+<br>
+
+---
+
+<table width="100%" align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h3><b>I. DIRECTIVES & PROFILE</b></h3>
+      <p>I specialize in developing predictive models, analyzing complex datasets, and engineering scalable AI solutions. Currently focused on mastering PyTorch and exploring advanced deep learning methodologies to solve real-world problems.</p>
+      <ul>
+        <li><b>Focus:</b> Deep Learning, Data Analytics</li>
+        <li><b>Current Objective:</b> PyTorch Architectures</li>
+        <li><b>Collaboration:</b> Open-source AI/DS Projects</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h3><b>II. TECHNOLOGY STACK</b></h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn&theme=dark" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=pandas,numpy,docker,linux&theme=dark" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=aws,gcp,git,bash&theme=dark" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<br>
 
 <div align="center">
-  <i>Welcome to the neural hub. <kbd>Click</kbd> on the dropdowns to expand data streams.</i>
+  <h3><b>III. LIVE MODEL TRAINING SIMULATION</b></h3>
+  <p><i>Visualizing backpropagation and weight optimization across deep hidden layers.</i></p>
+  <br>
+  <img src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif" width="700" alt="Neural Network Backpropagation" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=100&color=60A5FA&center=true&vCenter=true&width=700&lines=[Epoch+1/50]+Loss:+0.8432+|+Val_Acc:+76.4%25;[Epoch+12/50]+Loss:+0.5120+|+Val_Acc:+84.1%25;[Epoch+28/50]+Loss:+0.2315+|+Val_Acc:+92.8%25;[Epoch+41/50]+Loss:+0.0984+|+Val_Acc:+97.2%25;[Epoch+50/50]+Loss:+0.0121+|+Val_Acc:+99.6%25;[Status]+Model+Converged.+Saving+Weights..." />
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  <h3><b>IV. COMMUNICATIONS UPLINK</b></h3>
+  <br>
+  <a href="mailto:tanishmittal2212@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-tanishmittal2212@gmail.com-1F2937?style=for-the-badge&logo=minutemailer&logoColor=60A5FA" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/tanish-ml">
+    <img src="https://img.shields.io/badge/GITHUB-tanish--ml-1F2937?style=for-the-badge&logo=github&logoColor=60A5FA" />
+  </a>
 </div>
 
 <br><br>
 
-<details open>
-  <summary>
-    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35" /> <b><kbd>./run whoami.sh</kbd></b></h2>
-  </summary>
-  <br>
-  <table width="100%" align="center">
-    <tr>
-      <td width="70%">
-        <h3>Tanish | Data Scientist & AI Architect</h3>
-        <ul>
-          <li><b>Designation:</b> ML Engineer & Data Analyst.</li>
-          <li><b>Current Objective:</b> Deep learning, mastering PyTorch architecture.</li>
-          <li><b>Network Status:</b> Syncing with open-source AI/DS projects.</li>
-          <li><b>Philosophy:</b> <i>"Turning coffee into models and noise into signals."</i></li>
-        </ul>
-      </td>
-      <td width="30%" align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="90" />
-      </td>
-    </tr>
-  </table>
-</details>
-
-<br>
-
-<details>
-  <summary>
-    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="35" /> <b><kbd>./run load_tech_stack.py</kbd></b></h2>
-  </summary>
-  <br>
-  <table width="100%" align="center">
-    <tr>
-      <td align="center" width="33%">
-        <b>🧠 Deep Learning / ML</b><br><br>
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark" />
-      </td>
-      <td align="center" width="33%">
-        <b>📊 Data Engineering</b><br><br>
-        <img src="https://skillicons.dev/icons?i=python,pandas,numpy&theme=dark" />
-      </td>
-      <td align="center" width="33%">
-        <b>☁️ Infrastructure</b><br><br>
-        <img src="https://skillicons.dev/icons?i=linux,docker,aws,gcp&theme=dark" />
-      </td>
-    </tr>
-  </table>
-</details>
-
-<br>
-
-<details>
-  <summary>
-    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="35" /> <b><kbd>./run neural_network_viz.py</kbd></b></h2>
-  </summary>
-  <br>
-  <div align="center">
-    <h3>Live Training Visualization: <code>Tanish-GPT-v1</code></h3>
-    <img src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif" width="400" style="border-radius:10px; border: 2px solid #00FF99;" alt="Neural Network Animation" />
-    <br><br>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=500&color=00FF99&center=true&vCenter=true&width=600&lines=Initializing+weights...;Epoch+1/100...++Loss:+0.942;Epoch+23/100...++Loss:+0.421;Epoch+56/100...++Loss:+0.103;Epoch+99/100...++Loss:+0.005;Training+Complete.+Accuracy:+99.9%25" alt="Training Terminal" />
-    </a>
-  </div>
-</details>
-
-<br>
-
-<details>
-  <summary>
-    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> <b><kbd>./play_game.exe</kbd></b> (Mini-Game)</h2>
-  </summary>
-  <br>
-  <div align="center">
-    <h3>🎮 Escape the Overfitted Model</h3>
-    <p><i>You are a single data point stuck in a high-dimensional space. The model is severely overfitting!<br>Choose a path to escape the decision boundary:</i></p>
-    <br>
-    <table width="80%" align="center">
-      <tr>
-        <td align="center">
-          <details>
-            <summary><b>🚪 Door 1: Increase Dropout</b></summary>
-            <br>
-            <blockquote style="border-left: 3px solid #00FF99;">
-              <p>You increased the dropout rate to 0.5. The model generalizes better, and you slip right through the decision boundary!</p>
-              <b>🎉 YOU ESCAPED! 🎉</b>
-            </blockquote>
-          </details>
-        </td>
-        <td align="center">
-          <details>
-            <summary><b>🚪 Door 2: Add 50 More Layers</b></summary>
-            <br>
-            <blockquote style="border-left: 3px solid red;">
-              <p>The vanishing gradient problem sets in. You are trapped in a local minimum forever.</p>
-              <b>💀 GAME OVER 💀</b>
-            </blockquote>
-          </details>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" colspan="2">
-          <br>
-          <details>
-            <summary><b>🚪 Door 3: Use L2 Regularization</b></summary>
-            <br>
-            <blockquote style="border-left: 3px solid #00FF99;">
-              <p>Weight decay smoothed out the sharp spikes in the feature space. You safely slide down the gradient to the global minimum.</p>
-              <b>🎉 YOU ESCAPED! 🎉</b>
-            </blockquote>
-          </details>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<br>
-
-<details>
-  <summary>
-    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="35" /> <b><kbd>./run establish_uplink.sh</kbd></b></h2>
-  </summary>
-  <br>
-  <div align="center">
-    <p>Choose a communication protocol:</p>
-    <a href="mailto:tanishmittal2212@gmail.com">
-      <img src="https://img.shields.io/badge/Initiate_Email_Uplink-000000?style=for-the-badge&logo=gmail&logoColor=00FF99" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/tanish-ml">
-      <img src="https://img.shields.io/badge/Access_GitHub_Network-000000?style=for-the-badge&logo=github&logoColor=00FF99" />
-    </a>
-  </div>
-</details>
-
-<br><br>
-
 <div align="center">
-  <code>System connection terminated. Have a great day. 🟢</code>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&height=10&section=footer" />
 </div>
