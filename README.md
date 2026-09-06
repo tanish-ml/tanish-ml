@@ -64,6 +64,17 @@ graph TD;
 <br><br>
 
 <div align="center">
+  <h2>🐍 <b>Contribution Heatmap</b></h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanish-ml/tanish-ml/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanish-ml/tanish-ml/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tanish-ml/tanish-ml/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br><br>
+
+<div align="center">
   <h2>📡 <b>Establish Uplink</b></h2>
   <br>
   <a href="mailto:tanishmittal2212@gmail.com">
