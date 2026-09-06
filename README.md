@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Tanish_ML+System+OS_v2.0;Interactive+Console+Enabled;Click+the+modules+below+to+execute_&alt=Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Tanish_ML+System+OS_v3.0;Interactive+Console+Enabled;Click+the+modules+below+to+execute_&alt=Typing" />
   </a>
 </h1>
 
@@ -60,6 +60,74 @@
       </td>
     </tr>
   </table>
+</details>
+
+<br>
+
+<details>
+  <summary>
+    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="35" /> <b><kbd>./run neural_network_viz.py</kbd></b></h2>
+  </summary>
+  <br>
+  <div align="center">
+    <h3>Live Training Visualization: <code>Tanish-GPT-v1</code></h3>
+    <img src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif" width="400" style="border-radius:10px; border: 2px solid #00FF99;" alt="Neural Network Animation" />
+    <br><br>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=500&color=00FF99&center=true&vCenter=true&width=600&lines=Initializing+weights...;Epoch+1/100...++Loss:+0.942;Epoch+23/100...++Loss:+0.421;Epoch+56/100...++Loss:+0.103;Epoch+99/100...++Loss:+0.005;Training+Complete.+Accuracy:+99.9%25" alt="Training Terminal" />
+    </a>
+  </div>
+</details>
+
+<br>
+
+<details>
+  <summary>
+    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" /> <b><kbd>./play_game.exe</kbd></b> (Mini-Game)</h2>
+  </summary>
+  <br>
+  <div align="center">
+    <h3>🎮 Escape the Overfitted Model</h3>
+    <p><i>You are a single data point stuck in a high-dimensional space. The model is severely overfitting!<br>Choose a path to escape the decision boundary:</i></p>
+    <br>
+    <table width="80%" align="center">
+      <tr>
+        <td align="center">
+          <details>
+            <summary><b>🚪 Door 1: Increase Dropout</b></summary>
+            <br>
+            <blockquote style="border-left: 3px solid #00FF99;">
+              <p>You increased the dropout rate to 0.5. The model generalizes better, and you slip right through the decision boundary!</p>
+              <b>🎉 YOU ESCAPED! 🎉</b>
+            </blockquote>
+          </details>
+        </td>
+        <td align="center">
+          <details>
+            <summary><b>🚪 Door 2: Add 50 More Layers</b></summary>
+            <br>
+            <blockquote style="border-left: 3px solid red;">
+              <p>The vanishing gradient problem sets in. You are trapped in a local minimum forever.</p>
+              <b>💀 GAME OVER 💀</b>
+            </blockquote>
+          </details>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <br>
+          <details>
+            <summary><b>🚪 Door 3: Use L2 Regularization</b></summary>
+            <br>
+            <blockquote style="border-left: 3px solid #00FF99;">
+              <p>Weight decay smoothed out the sharp spikes in the feature space. You safely slide down the gradient to the global minimum.</p>
+              <b>🎉 YOU ESCAPED! 🎉</b>
+            </blockquote>
+          </details>
+        </td>
+      </tr>
+    </table>
+  </div>
 </details>
 
 <br>
