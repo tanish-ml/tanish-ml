@@ -1,81 +1,88 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,23&height=300&section=header&text=Welcome%20to%20My%20Neural%20Net&fontSize=50&fontAlignY=40&desc=Tanish%20%7C%20Data%20Scientist%20%7C%20AI%20Architect&descAlignY=55&descAlign=50&animation=fadeIn" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px;" alt="Data Stream Animation" />
 </div>
 
-<div align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=import+pandas+as+pd;import+torch.nn+as+nn;from+sklearn+import+metrics;model.train(epochs=100)...;print('Hello,+World!')" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Tanish_ML+System+OS_v2.0;Interactive+Console+Enabled;Click+the+modules+below+to+execute_&alt=Typing" />
   </a>
-</div>
-
----
-
-<br>
+</h1>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29oeGNxaHhkdnNxcTNtbXBlcm9rc2hwYnp5dmt0aGRsNThnZm51ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iOtdjJ82Vqdsj/giphy.gif" width="200" style="border-radius: 20px; box-shadow: 0 0 10px #00FF99;" />
+  <i>Welcome to the neural hub. <kbd>Click</kbd> on the dropdowns to expand data streams.</i>
 </div>
 
-<br>
+<br><br>
 
-### 👨🏻‍💻 `whoami.py`
-
-```python
-class Tanish:
-    def __init__(self):
-        self.role = "Data Scientist & AI Enthusiast"
-        self.interests = [
-            "Data Analytics",
-            "Machine Learning",
-            "Artificial Intelligence"
-        ]
-        self.currently_learning = "PyTorch"
-        
-    def get_goals(self):
-        return "Turning coffee into models and noise into signals. ☕ Data -> Insights."
-
-    def collaborate(self):
-        return "Always open for AI/DS open-source projects! 🚀"
-
-    def ping_me(self):
-        return "tanishmittal2212@gmail.com"
-```
-
----
-
-<h3 align="center">⚙️ Neural Network Architecture (Tech Stack)</h3>
+<details open>
+  <summary>
+    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35" /> <b><kbd>./run whoami.sh</kbd></b></h2>
+  </summary>
+  <br>
+  <table width="100%" align="center">
+    <tr>
+      <td width="70%">
+        <h3>Tanish | Data Scientist & AI Architect</h3>
+        <ul>
+          <li><b>Designation:</b> ML Engineer & Data Analyst.</li>
+          <li><b>Current Objective:</b> Deep learning, mastering PyTorch architecture.</li>
+          <li><b>Network Status:</b> Syncing with open-source AI/DS projects.</li>
+          <li><b>Philosophy:</b> <i>"Turning coffee into models and noise into signals."</i></li>
+        </ul>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="90" />
+      </td>
+    </tr>
+  </table>
+</details>
 
 <br>
+
+<details>
+  <summary>
+    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="35" /> <b><kbd>./run load_tech_stack.py</kbd></b></h2>
+  </summary>
+  <br>
+  <table width="100%" align="center">
+    <tr>
+      <td align="center" width="33%">
+        <b>🧠 Deep Learning / ML</b><br><br>
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark" />
+      </td>
+      <td align="center" width="33%">
+        <b>📊 Data Engineering</b><br><br>
+        <img src="https://skillicons.dev/icons?i=python,pandas,numpy&theme=dark" />
+      </td>
+      <td align="center" width="33%">
+        <b>☁️ Infrastructure</b><br><br>
+        <img src="https://skillicons.dev/icons?i=linux,docker,aws,gcp&theme=dark" />
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br>
+
+<details>
+  <summary>
+    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="35" /> <b><kbd>./run establish_uplink.sh</kbd></b></h2>
+  </summary>
+  <br>
+  <div align="center">
+    <p>Choose a communication protocol:</p>
+    <a href="mailto:tanishmittal2212@gmail.com">
+      <img src="https://img.shields.io/badge/Initiate_Email_Uplink-000000?style=for-the-badge&logo=gmail&logoColor=00FF99" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/tanish-ml">
+      <img src="https://img.shields.io/badge/Access_GitHub_Network-000000?style=for-the-badge&logo=github&logoColor=00FF99" />
+    </a>
+  </div>
+</details>
+
+<br><br>
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,numpy&theme=dark&perline=6" />
-  </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,aws,gcp&theme=dark&perline=6" />
-  </a>
-</div>
-
-<br>
-
----
-
-<h3 align="center">📫 Uplink (Let's Connect)</h3>
-
-<br>
-
-<div align="center">
-  <a href="mailto:tanishmittal2212@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
-  </a>
-  <a href="https://github.com/tanish-ml">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,23&height=100&section=footer" />
+  <code>System connection terminated. Have a great day. 🟢</code>
 </div>
