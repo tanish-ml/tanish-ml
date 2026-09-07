@@ -84,7 +84,7 @@ graph TD;
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF99" />
   </a>
   <a href="https://tanish-ml.github.io/tanish-ml-portfolio/">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=00FF99" />
+    <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=00FF99" />
   </a>
 </div>
 
