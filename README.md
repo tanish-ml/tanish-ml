@@ -2,6 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,23&height=250&section=header&text=TANISH%20MITTAL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DATA%20SCIENTIST%20%7C%20AI%20ARCHITECT&descAlignY=55&descAlign=50" />
 </div>
 
+
+<br>
+<div align="center">
+  <a href="https://tanish-ml.github.io/">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Enter_Interactive_3D_Portfolio-000000?style=for-the-badge&logo=web&logoColor=00FF99&borderColor=00FF99" alt="Interactive Portfolio" />
+  </a>
+</div>
+<br>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Building+Scalable+AI+Systems;Mastering+PyTorch+%26+Deep+Learning;Turning+Data+into+Actionable+Intelligence;Open+to+Collaboration" alt="Typing SVG" />
@@ -83,7 +91,7 @@ graph TD;
   <a href="https://github.com/tanish-ml">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF99" />
   </a>
-  <a href="https://tanish-ml.github.io/tanish-ml-portfolio/">
+  <a href="https://tanish-ml.github.io/">
     <img src="https://img.shields.io/badge/GitHub%20Pages-000000?style=for-the-badge&logo=github&logoColor=00FF99" />
   </a>
 </div>
